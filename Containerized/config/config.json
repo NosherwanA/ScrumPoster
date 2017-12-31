@@ -1,0 +1,8 @@
+{
+    "mattermost":{
+        "url": MATTERMOST URL HERE,
+        "userID": USER ID OF THE ACCOUNT TO BE USED,
+        "password": PASSWORD FOR THE ACCOUNT TO BE USED,
+        "version":3
+    }
+}
